@@ -4,9 +4,11 @@ Autogenerate local machine vhost (mac osx)
 
 # Autogenerate local vhosts for mac os x
 
-⋅⋅* PHP-cli tool
-⋅⋅* Site Directories must end in .local to be picked up
-⋅⋅* example /path/site.local will become http://local.site 
+* PHP-cli tool
+
+* Site Directories must end in .local to be picked up
+
+* example /path/site.local will become http://local.site 
 
 
 ```

@@ -1,0 +1,8 @@
+{
+    "name": "crivion/autogenerate-vhosts-osx",
+    "description": "Manage local virtual hosts on your mac os machine via php-cli",
+    "require": {
+        "php": "^7.3",
+        "crivion/autogenerate-vhosts-osx": "1.*"
+    }
+}
